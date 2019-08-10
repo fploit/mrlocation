@@ -5,10 +5,10 @@ get target location by link
 <br />
 # prerequisites
 <code>
-apt update<br />
-apt install git<br />
-apt install python3<br />
-apt install php<br />
-apt install openssh<br />
-pip3 install pyTelegramBotAPI
+apt update</code><code>
+apt install git </code> <code>
+apt install python3  </code> <code>
+apt install php  </code> <code>
+apt install openssh  </code> <code>
+pip3 install pyTelegramBotAPI  </code> <code>
 </code>
