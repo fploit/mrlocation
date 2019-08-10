@@ -1,3 +1,7 @@
+# code by mrsploit
+# Jailbreak & Root TM
+# jilrot.com
+# t.me/jailbreakandroot
 import telebot, sys
 
 f = open("bot-data.txt","r").read().splitlines()
