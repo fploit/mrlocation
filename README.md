@@ -9,3 +9,9 @@ apt update |
 apt install git php python3 |
 pip3 install pyTelegramBotAPI 
 </code>
+# run
+<code>
+  git clone https://github.com/jilrot/mrlocation |
+  cd mrlocation |
+  python3 mrlocation.py
+</code>
