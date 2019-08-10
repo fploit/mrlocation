@@ -1,3 +1,7 @@
+// code by mrsploit
+// Jailbreak & Root TM
+// jilrot.com
+// t.me/jailbreakandroot
 <?php
 $json = (file_get_contents('php://input'));
 $dejson = json_decode($json, true);
