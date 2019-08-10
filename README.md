@@ -10,7 +10,6 @@ apt install git php python3 |
 pip3 install pyTelegramBotAPI 
 </code>
 
-#############################
 
 # run
 <code>
