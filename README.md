@@ -5,7 +5,7 @@ get target location by link
 <br />
 # prerequisites
 <code>
-<p>apt update</p>
-<p>apt install git php python3</p>
-<p>pip3 install pyTelegramBotAPI</p>
+apt update |
+apt install git php python3 |
+pip3 install pyTelegramBotAPI 
 </code>
