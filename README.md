@@ -1,3 +1,3 @@
 # mrlocation
-<img src='htpos://jilrot.com/images/mrlocation.jpg' />
+<img src='https://jilrot.com/images/mrlocation.jpg' />
 get target location by link
